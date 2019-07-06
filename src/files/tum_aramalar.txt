@@ -1,0 +1,1255 @@
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+mehmet saglam,kocaeli,5051234567,1990,msaglam@hotmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+isparta anadolu lisesi,sayisal,lise,92,2005,2009
+kocaeli universitesi,bilgisayar muh,lisans,75,2010,2015
+
+is:
+yok,yok,yok,0.0
+
+------------------------------------------
+selim mert,istanbul,5061234567,1985,smert@gmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+corum lisesi,sayisal,lise,80,1999,2002
+marmara universitesi,elektronik muhendisligi,lisans,77,2004,2010
+
+is:
+karel,istanbul,gomulu yazilim muhendisi,5.0
+
+------------------------------------------
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+mehmet saglam,kocaeli,5051234567,1990,msaglam@hotmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+isparta anadolu lisesi,sayisal,lise,92,2005,2009
+kocaeli universitesi,bilgisayar muh,lisans,75,2010,2015
+
+is:
+yok,yok,yok,0.0
+
+------------------------------------------
+selim mert,istanbul,5061234567,1985,smert@gmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+corum lisesi,sayisal,lise,80,1999,2002
+marmara universitesi,elektronik muhendisligi,lisans,77,2004,2010
+
+is:
+karel,istanbul,gomulu yazilim muhendisi,5.0
+
+------------------------------------------
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+mehmet saglam,kocaeli,5051234567,1990,msaglam@hotmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+isparta anadolu lisesi,sayisal,lise,92,2005,2009
+kocaeli universitesi,bilgisayar muh,lisans,75,2010,2015
+
+is:
+yok,yok,yok,0.0
+
+------------------------------------------
+neriman koc,ankara,5331234567,1988,nkoca@ymail.com
+ehliyet:e,
+dil:almanca,
+
+okul:
+ankara anadolu ogretmen lisesi,sayisal,lise,90,2002,2005
+ege universitesi,elektronik haberlesme muh,lisans,70,2005,2010
+ege universitesi,elektronik haberlesme muh,yuksek lisans,0,2011,3000
+
+is:
+ege uni elektronik haberlesme,izmir,arastirma gorevlisi,3.0
+
+------------------------------------------
+selim mert,istanbul,5061234567,1985,smert@gmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+corum lisesi,sayisal,lise,80,1999,2002
+marmara universitesi,elektronik muhendisligi,lisans,77,2004,2010
+
+is:
+karel,istanbul,gomulu yazilim muhendisi,5.0
+
+------------------------------------------
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+selim mert,istanbul,5061234567,1985,smert@gmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+corum lisesi,sayisal,lise,80,1999,2002
+marmara universitesi,elektronik muhendisligi,lisans,77,2004,2010
+
+is:
+karel,istanbul,gomulu yazilim muhendisi,5.0
+
+------------------------------------------
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+selim mert,istanbul,5061234567,1985,smert@gmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+corum lisesi,sayisal,lise,80,1999,2002
+marmara universitesi,elektronik muhendisligi,lisans,77,2004,2010
+
+is:
+karel,istanbul,gomulu yazilim muhendisi,5.0
+
+------------------------------------------
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+mehmet saglam,kocaeli,5051234567,1990,msaglam@hotmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+isparta anadolu lisesi,sayisal,lise,92,2005,2009
+kocaeli universitesi,bilgisayar muh,lisans,75,2010,2015
+
+is:
+yok,yok,yok,0.0
+
+------------------------------------------
+selim mert,istanbul,5061234567,1985,smert@gmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+corum lisesi,sayisal,lise,80,1999,2002
+marmara universitesi,elektronik muhendisligi,lisans,77,2004,2010
+
+is:
+karel,istanbul,gomulu yazilim muhendisi,5.0
+
+------------------------------------------
+
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+mehmet saglam,kocaeli,5051234567,1990,msaglam@hotmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+isparta anadolu lisesi,sayisal,lise,92,2005,2009
+kocaeli universitesi,bilgisayar muh,lisans,75,2010,2015
+
+is:
+yok,yok,yok,0.0
+
+------------------------------------------
+neriman koc,ankara,5331234567,1988,nkoca@ymail.com
+ehliyet:e,
+dil:almanca,
+
+okul:
+ankara anadolu ogretmen lisesi,sayisal,lise,90,2002,2005
+ege universitesi,elektronik haberlesme muh,lisans,70,2005,2010
+ege universitesi,elektronik haberlesme muh,yuksek lisans,0,2011,3000
+
+is:
+ege uni elektronik haberlesme,izmir,arastirma gorevlisi,3.0
+
+------------------------------------------
+selim mert,istanbul,5061234567,1985,smert@gmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+corum lisesi,sayisal,lise,80,1999,2002
+marmara universitesi,elektronik muhendisligi,lisans,77,2004,2010
+
+is:
+karel,istanbul,gomulu yazilim muhendisi,5.0
+
+------------------------------------------
+
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+mehmet saglam,kocaeli,5051234567,1990,msaglam@hotmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+isparta anadolu lisesi,sayisal,lise,92,2005,2009
+kocaeli universitesi,bilgisayar muh,lisans,75,2010,2015
+
+is:
+yok,yok,yok,0.0
+
+------------------------------------------
+selim mert,istanbul,5061234567,1985,smert@gmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+corum lisesi,sayisal,lise,80,1999,2002
+marmara universitesi,elektronik muhendisligi,lisans,77,2004,2010
+
+is:
+karel,istanbul,gomulu yazilim muhendisi,5.0
+
+------------------------------------------
+
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+mehmet saglam,kocaeli,5051234567,1990,msaglam@hotmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+isparta anadolu lisesi,sayisal,lise,92,2005,2009
+kocaeli universitesi,bilgisayar muh,lisans,75,2010,2015
+
+is:
+yok,yok,yok,0.0
+
+------------------------------------------
+selim mert,istanbul,5061234567,1985,smert@gmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+corum lisesi,sayisal,lise,80,1999,2002
+marmara universitesi,elektronik muhendisligi,lisans,77,2004,2010
+
+is:
+karel,istanbul,gomulu yazilim muhendisi,5.0
+
+------------------------------------------
+
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+ali kaya,istanbul,5321234567,1985,akaya@gmail.com
+ehliyet:a2,b,
+dil:ingilizce,fransizca,
+
+okul:
+galatasaray lisesi,sayisal,lise,82,1999,2003
+yildiz teknik universitesi,bilgisayar muh,lisans,80,2004,2009
+yildiz teknik universitesi,bilgisayar muh,yuksek lisans,95,2010,2013
+bogazici universitesi,bilgisayar muh,doktora,0,2013,3000
+
+is:
+burger king,istanbul,vardiya muduru,2.0
+armada bilgisayar,istanbul,yazilim uzmani,1.0
+comodo yazilim as,ankara,front end developer,0.5
+destek group,istanbul ankara,bilgisayar muhendisi,2.0
+otokar,kocaeli,network ve guvenlik muhendisi,1.5
+vodafone,istanbul,mediation solution senior specialist,1.5
+
+------------------------------------------
+
+
+ahmet sari,manisa,5071234567,1989,asari@gmail.com
+ehliyet:b,
+dil:arapca,ingilizce,almanca,
+
+okul:
+manisa lisesi,sayisal,lise,70,2003,2006
+yalvac myo,bilgisayar programciligi,yuksek okul,95,2006,2008
+selcuk universitesi,matematik bilgisayar,lisans,90,2009,2012
+gazi universitesi,bilgisayar muh,yuksek lisans,92,2012,2015
+
+is:
+ag software,konya,programci,2.0
+randstad professionals,ankara,firmware engineer,2.0
+
+------------------------------------------
+asli yel,trabzon,5421234567,1970,ayel@yahoo.com
+ehliyet:yok,
+dil:ingilizce,
+
+okul:
+of kiz meslek lisesi,elektrik,lise,79,1985,1990
+orta dogu teknik universitesi,elektrik elektronik muhendisligi,lisans,80,1992,1996
+
+is:
+turk telekom,trabzon,muhendis,10.0
+turk telekom,ankara,mudur,14.0
+
+------------------------------------------
+mehmet saglam,kocaeli,5051234567,1990,msaglam@hotmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+isparta anadolu lisesi,sayisal,lise,92,2005,2009
+kocaeli universitesi,bilgisayar muh,lisans,75,2010,2015
+
+is:
+yok,yok,yok,0.0
+
+------------------------------------------
+neriman koc,ankara,5331234567,1988,nkoca@ymail.com
+ehliyet:e,
+dil:almanca,
+
+okul:
+ankara anadolu ogretmen lisesi,sayisal,lise,90,2002,2005
+ege universitesi,elektronik haberlesme muh,lisans,70,2005,2010
+ege universitesi,elektronik haberlesme muh,yuksek lisans,0,2011,3000
+
+is:
+ege uni elektronik haberlesme,izmir,arastirma gorevlisi,3.0
+
+------------------------------------------
+selim mert,istanbul,5061234567,1985,smert@gmail.com
+ehliyet:b,
+dil:yok,
+
+okul:
+corum lisesi,sayisal,lise,80,1999,2002
+marmara universitesi,elektronik muhendisligi,lisans,77,2004,2010
+
+is:
+karel,istanbul,gomulu yazilim muhendisi,5.0
+
+------------------------------------------
+
+

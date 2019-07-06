@@ -1,0 +1,5 @@
+yok,yok,yok,0.0,-
+turk telekom,trabzon,muhendis,10.0,+turk telekom,ankara,mudur,14.0,-
+ege uni elektronik haberlesme,izmir,arastirma gorevlisi,3.0,-
+ag software,konya,programci,2.0,+randstad professionals,ankara,firmware engineer,2.0,-
+karel,istanbul,gomulu yazilim muhendisi,5.0,-

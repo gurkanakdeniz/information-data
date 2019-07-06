@@ -1,0 +1,5 @@
+yok,-
+ingilizce,-
+almanca,-
+arapca,+ingilizce,+almanca,-
+yok,-
